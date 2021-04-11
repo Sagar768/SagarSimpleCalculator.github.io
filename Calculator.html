@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome To Sagar Simple Calculator Website</title>
+    <link rel="stylesheet" href="Calculator.css">
+</head>
+
+<body>
+
+    <center>
+        <div class="main">
+            <form name="calc">
+                <div>
+                    <input type="text" name="screen" class="screen">
+                </div>
+                <div class="button">
+                    <div class="btn">
+                        <input type="button" value="AC" onclick="ac()" id="clearAll" />
+                        <input type="button" value="DEL" onclick="del()" id="clear" />
+                    </div>
+                    <div class="btn">
+                        <input type="button" value="0" onclick="valueButton(this)" id="szero" />
+                        <input type="button" value="00" onclick="valueButton(this)" id="dzero" />
+                        <input type="button" value="." onclick="valueButton(this)" id="point" />
+                        <input type="button" value="/" onclick="valueButton(this)" id="by" />
+                    </div>
+
+                    <div class="btn">
+                        <input type="button" value="7" onclick="valueButton(this)" id="seven" />
+                        <input type="button" value="8" onclick="valueButton(this)" id="height" />
+                        <input type="button" value="9" onclick="valueButton(this)" id="nine" />
+                        <input type="button" value="*" onclick="valueButton(this)" id="hash" />
+                    </div>
+
+
+                    <div class="btn">
+                        <input type="button" value="4" onclick="valueButton(this)" id="four" />
+                        <input type="button" value="5" onclick="valueButton(this)" id="five" />
+                        <input type="button" value="6" onclick="valueButton(this)" id="six" />
+                        <input type="button" value="-" onclick="valueButton(this)" id="minus" />
+                    </div>
+                    <div class="btn">
+                        <input type="button" value="1" onclick="valueButton(this)" id="one" />
+                        <input type="button" value="2" onclick="valueButton(this)" id="two" />
+                        <input type="button" value="3" onclick="valueButton(this)" id="three" />
+                        <input type="button" value="+" onclick="valueButton(this)" id="plus" />
+
+                    </div>
+
+                    <div class="btn">
+                        <input type="button" value="=" onclick="equals()" id="equal" />
+                    </div>
+                </div>
+            </form>
+            <div id="copy">&copy; 2021 All copy rights reserved</div>
+        </div>
+        <script src="Calculator.js"></script>
+    </center>
+</body>
+
+</html>

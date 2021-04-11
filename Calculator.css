@@ -1,0 +1,295 @@
+#clearAll {
+    width: 205px;
+    height: 30px;
+    background-color: brown;
+}
+
+#clearAll:hover {
+    background-color: rgb(240, 110, 110);
+    box-shadow: 0 5px 50px 0 tomato, 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#clear {
+    width: 205px;
+    height: 30px;
+    color: black;
+    background-color: crimson;
+}
+
+#clear:hover {
+    background-color: red;
+    box-shadow: 0 5px 50px 0 tomato, 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#szero {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#szero:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#dzero {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#dzero:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#point {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#point:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#by {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#by:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#seven {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#seven:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#height {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#height:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#nine {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#nine:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#hash {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#hash:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#four {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#four:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#five {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#five:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#six {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#six:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#one {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#one:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#two {
+    width: 20%;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#two:hover {
+    background-color: rgb(123, 183, 211);
+    box-shadow: 0 5px 50px 0 rgb(169, 191, 233), 0 5px 50px 0 tomato;
+    text-shadow: 0 5px 50px 0 blue, 0 5px 50px 0 red;
+    color: snow;
+    font-size: 20px;
+}
+
+#three {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#three:hover {
+    box-shadow: 0 5px 50px 0 rgb(25, 13, 184) inset, 0 5px 50px 0 rgb(9, 21, 187);
+    text-shadow: 0 5px 50px 0 rgb(0, 153, 255) inset, 0 5px 50px 0 red;
+    font-size: 20px;
+}
+
+#minus {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#minus:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#plus {
+    width: 20%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
+
+#plus:hover {
+    box-shadow: 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 rgb(0, 255, 76);
+    color: snow;
+    font-size: 20px;
+}
+
+#equal {
+    background-color: green;
+    height: 50px;
+    width: 83%;
+}
+
+#equal:hover {
+    box-shadow: 0 5px 50px 0 lawngreen inset, 0 5px 50px 0 lawngreen;
+    text-shadow: 0 5px 50px 0 red inset, 0 5px 50px 0 red;
+    font-size: 20px;
+}
+
+.screen {
+    display: inline;
+    color: black;
+    margin-bottom: 60px;
+    height: 60px;
+    text-align: end;
+    background-color: cadetblue;
+    font-weight: bold;
+    width: 350px;
+}
+
+.empty {
+    background-color: red;
+    display: inline-block;
+}
+
+.main {
+    border: black solid;
+    height: 450px;
+    width: 500px;
+    padding-top: 100px;
+    display: inline-block;
+    background-color: rgb(63, 70, 109);
+    border-radius: 25px;
+    border: 2px solid;
+}
+
+.btn {
+    height: 40px;
+}
+
+#copy {
+    padding-top: 60px;
+    color: rgb(173, 173, 233);
+}
+
+body {
+    background-color: papayawhip;
+}
